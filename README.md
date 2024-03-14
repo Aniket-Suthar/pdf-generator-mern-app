@@ -8,6 +8,11 @@ This is a web application for generating PDF invoices. It allows users to regist
 - **Add Products**: Users can add products with their details such as name, quantity, and rate.
 - **Generate PDF Invoice**: Users can generate PDF invoices containing the details of the products added.
 
+![image](https://github.com/Aniket-Suthar/pdf-generator-mern-app/assets/117531809/6fcb1128-2a73-4f48-8476-ccb4f899b4d3)
+
+
+
+
 ## Technologies Used
 
 - **Frontend**: React.js with TypeScript, Tailwind CSS
