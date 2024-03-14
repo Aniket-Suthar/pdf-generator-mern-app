@@ -38,13 +38,13 @@ MONGODB_URI=your_mongo_db_uri
 
 ## Running the Development Server
 
-# Run backend server
+### Run backend server
 ``` bash
 
 cd ./backend
 npm run start
 ```
-# Run frontend server
+### Run frontend server
 ``` bash
 cd ../frontend
 npm run dev
