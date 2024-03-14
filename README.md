@@ -38,8 +38,10 @@ cd backend
 npm install
 ```
 
-## Set Up Environment
-MONGODB_URI=your_mongo_db_uri
+## Set Up Environment 
+Crearte a .env file and add this:
+
+MONGO_DB_URL=your_mongo_db_uri
 
 ## Running the Development Server
 
